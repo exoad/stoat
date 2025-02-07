@@ -1,4 +1,4 @@
-# Stoat Language Specifications
+# Stoat Sample Language Specifications
 
 **Version:** 1.0
 **Date:** February 2025
