@@ -1,6 +1,6 @@
 # Stoat
 
-**A configuration language focused on dynamic, redundancy-free evaluation.**
+**A language focused on dynamic, redundancy-free evaluation primarily designed for acting as a versatile easy to use configurations language.**
 
 
 ## Legals
