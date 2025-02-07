@@ -1,6 +1,6 @@
 # Stoat
 
-**A language focused on dynamic, redundancy-free evaluation primarily designed to act as a versatile, easy-to-use configuration language.**
+**An opinionated programming language focused on dynamic, redundancy-free evaluation primarily designed to act as a versatile, easy-to-use configuration language.**
 
 ## "Hello World!" demo
 
