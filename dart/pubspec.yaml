@@ -1,0 +1,13 @@
+name: stoat
+description: An embeddable, dynamically evaluated, and redundancy-free configuration language.
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  path: ^1.9.1
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
