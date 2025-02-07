@@ -11,7 +11,8 @@ Here is a simple "Hello World!" demo in Stoat.
 {
   main
     #__MAIN__():
-      ::str hello world;   
+      v::str  hello world;
+      PRINTLN(v);   
 }
 ```
 
