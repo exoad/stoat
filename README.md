@@ -6,13 +6,27 @@
 
 Here is a simple "Hello World!" demo in Stoat.
 
-`main.sto`
+`Main.sto`
 ```
 {
-  main
+  _main
     #__MAIN__():
       v::str  hello world;
       PRINTLN(v);   
+}
+```
+
+## As a configuration Language
+
+`Textures.sto`
+```
+{
+  assets/textures/Player.png
+    Dim::rect_sz  32,32;
+    CacheDim::rect_sz  32,32;
+  assets/textures/Flower_Pot[__INDEX__].png
+    Dim::rect_sz 16,16;
+    CacheDim::rect_sz 16,16;
 }
 ```
 
